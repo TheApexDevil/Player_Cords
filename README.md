@@ -4,7 +4,7 @@
 
 #                                   //PACKAGE FUNCTION//
 
-This will print you ingame player coordinates to you server console with this ingame chat command: /pos
+This will print you ingame player coordinates to your server console with this ingame chat command: /pos
 
 
 
